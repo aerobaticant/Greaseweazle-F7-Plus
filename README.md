@@ -1,5 +1,5 @@
 # Greaseweazle-F7-Plus
-My board design for <a href=https://github.com/keirf/Greaseweazle>Keir Fraser's Greaseweazle</a>
+My board design for [Keir Fraser's Greaseweazle](https://github.com/keirf/Greaseweazle).
 
 The differences between this design and the original F7 are:
 
@@ -11,3 +11,7 @@ The differences between this design and the original F7 are:
   * Connections for external LEDs, for use if fitting the board in an enclosure.
   * Jumper link to select write protection by default.
   * Jumper link to disconnect WR_GATE for physical hardware level write protection.
+
+This repository has only just been created.
+
+Please check out the [Wiki](https://github.com/aerobaticant/Greaseweazle-F7-Plus/wiki) (under construction).
