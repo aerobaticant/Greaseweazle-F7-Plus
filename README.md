@@ -3,7 +3,7 @@ My board design for [Keir Fraser's Greaseweazle](https://github.com/keirf/Grease
 
 The differences between this design and the original F7 are:
 
-  * PCB 80mm x 50mm, KyroFlux form factor.
+  * PCB 80mm x 50mm, KryoFlux form factor.
   * Added stronger buffers for driving 5.25" drives with higher current pull-up resistors.
   * Integrated 5V switching regulator, so only a single 12V supply is required for drives needing both rails.
   * Choice of full-size or micro USB connector.
